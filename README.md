@@ -25,9 +25,7 @@
 
 - ⚡ Fun fact **I can fly**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,7 +41,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kromate"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kromate" /></a><a href="https://ko-fi.com/kromate"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kromate" /></a></p><br><br>
 
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=kromate&show_icons=true&locale=en&layout=compact" alt="kromate" /></p>
+<p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=kromate&show_icons=true&locale=en&layout=compact" alt="kromate" /></p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=kromate&show_icons=true&locale=en" alt="kromate" /></p>
+<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=kromate&show_icons=true&locale=en" alt="kromate" /></p>
 
