@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kromate_24" target="blank"><img src="https://img.shields.io/twitter/follow/kromate_24?logo=twitter&style=for-the-badge" alt="kromate_24" /></a> </p>
 
-- 🔭 I’m currently working on [Stranerd](https://stranerd.com/)
+- 🔭 I’m currently working on [Wirepay](https://sendwirepay.com/)
 
 - 🌱 I’m currently learning **Web3 and WebAR/VR**
 
